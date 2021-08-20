@@ -1,0 +1,19 @@
+body{
+    background:#ddd;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.myName{
+    margin:100px auto;
+    text-transform:uppercase;
+    color:purple;
+    font-size:larger;
+    text-align:center;
+}
+
+p{
+
+    position:absolute;
+    bottom:0;
+    color:#222;
+    
+}
